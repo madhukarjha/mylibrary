@@ -1,0 +1,2 @@
+(this["webpackJsonpmylibrary-example"]=this["webpackJsonpmylibrary-example"]||[]).push([[0],[,,function(e,t,n){e.exports=n(11)},function(e,t,n){},,,,,,,function(e,t,n){},function(e,t,n){"use strict";n.r(t);n(3);var a=n(0),r=n.n(a),c=n(1),i=n.n(c),l="_3ybTi",m=function(e){var t=e.text;return r.a.createElement("div",{className:l},"Example Component: ",t)};n(10);var o=()=>r.a.createElement(m,{text:"Create React Library Example \ud83d\ude04"});i.a.render(r.a.createElement(o,null),document.getElementById("root"))}],[[2,1,2]]]);
+//# sourceMappingURL=main.7414a58e.chunk.js.map
